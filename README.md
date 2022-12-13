@@ -1,9 +1,16 @@
 - 👋 Oi, meu nome é Victor Celestino | Hi, i’m @vitucelestino;
 - 💻 Fullstack em desenvolvimento pela Kenzie Academy Brasil | Fullstack developer in training;
-- 🌱 Atualmente estou aprendendo Javascript | I’m currently learning Javascript;
 - 📫 Você pode me enviar uma mensagem no meu e-mail (victorcelestino13@gmail.com) | Oh, you can reach me on my e-mail. 💌
 
-<!---
-vitucelestino/vitucelestino is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=vitucelestino&show_icons=true&theme=transparent)
+
+- 📌 Tecnologias que utilizo no meu dia-a-dia:
+
+<div style="display: inline_block"><br/>
+  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img align="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>  
+  <div>
+
+
+
