@@ -1,12 +1,7 @@
 - 👋 Oi, meu nome é Victor Celestino | Hi, i’m @vitucelestino;
 - 💻 Fullstack em desenvolvimento pela Kenzie Academy Brasil | Fullstack developer in training;
 - 📫 Você pode me enviar uma mensagem no meu e-mail (victorcelestino13@gmail.com) | Oh, you can reach me on my e-mail. 💌
-
-![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=vitucelestino&show_icons=true&theme=transparent)
-
 - 📌 Tecnologias que utilizo no meu dia-a-dia:
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitucelestino&layout=compact)](https://github.com/vitucelestino/github-readme-stats)
 
 <div style="display: inline_block">
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
