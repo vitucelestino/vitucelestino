@@ -18,4 +18,6 @@
 
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitucelestino&langs_count=8)](https://github.com/vitucelestino/github-readme-stats)
+<div>
+  <a href="https://github.com/vitucelestino">
+    <img height="180cm" src="https://github-readme-status.vercel.app/api?username=vitucelestino&show_icons=true&theme=dracula&include_all_comits-=true&count_private=true"/>
