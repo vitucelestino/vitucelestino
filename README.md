@@ -1,6 +1,6 @@
-<p>👋 Oi, meu nome é Victor Celestino | Hi, i’m @vitucelestino;</p>
-<p>💻 Fullstack em desenvolvimento pela Kenzie Academy Brasil | Fullstack developer in training;</p>
-<p>📫 Você pode me enviar uma mensagem no meu e-mail (victorcelestino13@gmail.com) | Oh, you can reach me on my e-mail. 💌</p>
+- 👋 Oi, meu nome é Victor Celestino | Hi, i’m @vitucelestino;
+- 💻 Fullstack em desenvolvimento pela Kenzie Academy Brasil | Fullstack developer in training;
+- 📫 Você pode me enviar uma mensagem no meu e-mail (victorcelestino13@gmail.com) | Oh, you can reach me on my e-mail. 💌
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -16,6 +16,6 @@
   
 </div>
 
-##
+<br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitucelestino&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
