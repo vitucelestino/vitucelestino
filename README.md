@@ -21,5 +21,7 @@
 
 <div>
   <a href="https://github.com/vitucelestino">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitucelestino&layout=compact&langs_count=16&theme=dracula"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitucelestino&layout=compact&langs_count=16&theme=dracula"/><br>
+    
+    <img src="https://github-readme-stats.vercel.app/api?username=vitucelestino&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
