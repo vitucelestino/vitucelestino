@@ -1,5 +1,5 @@
-- 👋 Oi, meu nome é Victor Celestino | Hi, i’m @vitucelestino;
-- 💻 Fullstack em desenvolvimento pela Kenzie Academy Brasil | Fullstack developer in training;
+- 👋 Oi, meu nome é Victor | Hi, i’m @vitucelestino.
+- 💻 Fullstack em desenvolvimento | Fullstack developer in training @ Kenzie Academy.
 - 📫 Você pode me enviar uma mensagem no meu e-mail (victorcelestino13@gmail.com) | Oh, you can reach me on my e-mail. 💌
 
 <div style="display: inline_block"><br>
