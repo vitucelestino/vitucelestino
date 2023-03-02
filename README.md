@@ -1,8 +1,8 @@
-- 👋 Oi, meu nome é Victor | Hi, i’m @vitucelestino.
-- 💻 Fullstack em desenvolvimento | Fullstack developer in training @ Kenzie Academy.
-- 📫 Você pode me enviar uma mensagem no meu e-mail (victorcelestino13@gmail.com) | Oh, you can reach me on my e-mail. 💌
+<h2>Oi, meu nome é Victor | Hi, i’m @vitucelestino 👋</h2>
 
-<div style="display: inline_block"><br>
+Me chamo Victor e atualmente sou estudante de programação fullstack na Kenzie Academy Brasil, com o objetivo de me tornar desenvolvedor. Você pode me enviar uma mensagem <a href="https://api.whatsapp.com/send?phone=5592981719608">aqui.</a> | My name is Victor and i'm currently a fullstack programming student at Kenzie Academy Brazil, with the goal of becoming a developer. You can message me <a href="https://api.whatsapp.com/send?phone=5592981719608">here.</a> 💌
+
+<div style="display: inline_block">
   <img align="center" alt="Victor-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Victor-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Victor-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
