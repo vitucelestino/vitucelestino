@@ -1,7 +1,7 @@
 <h2>Oi, meu nome é Victor | Hi, i’m @vitucelestino 👋</h2>
 
 Oi, tudo bem?! 😃
-Me chamo Victor e atualmente sou estudante de programação fullstack na Kenzie Academy Brasil, com o objetivo de me tornar desenvolvedor. Estou realizando minha transição de carreira para esta área (programação) da qual já tive contato há muito tempo atrás, quando me aventurei a criar 'themes' para o tumblr, utilizando HTML. Possuo inglês avançado, que me possibilita a comunicação com outros colaboradores nativos da lingua inglesa. Obrigado por vir! Você pode me enviar uma mensagem <a href="https://api.whatsapp.com/send?phone=5592981719608">aqui.</a> 💌
+Me chamo Victor e atualmente sou estudante de programação fullstack na Kenzie Academy Brasil. Estou realizando minha transição de carreira para esta área (programação) da qual já tive contato há muito tempo atrás, quando me aventurei a criar 'themes' para o tumblr, utilizando HTML. Possuo inglês avançado, que me possibilita a comunicação com outros colaboradores nativos da lingua inglesa. Obrigado por vir! Você pode me enviar uma mensagem <a href="https://api.whatsapp.com/send?phone=5592981719608">aqui.</a> 💌
 
 Hi! how are you?! 😃
 My name is Victor and currently i'm a fullstack developer in training at Kenzie Academy Brazil. I'm making my career transition to this area, which i had contact a long time ago, when I made a few 'themes' for tumblr, using HTML. My skills: english (advanced), which enables me to have a communication with the other collaborators natives of the language. Thanks for coming! You can message me <a href="https://api.whatsapp.com/send?phone=5592981719608">here.</a> 💌
